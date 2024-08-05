@@ -1,0 +1,24 @@
+:root {
+    --font-family: Roboto, sans-serif;
+    --primary-color: #f1f1f1
+    --primary-color-dark: #2199eb
+    --secondary-color: #eb472
+    --text-dark:#141414
+    --text-light: #f1f1f1
+    --extra-light: #f9f9f9
+    --max-width: 1200px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: var(--font-family);
+}
